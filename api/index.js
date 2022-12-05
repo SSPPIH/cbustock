@@ -8,7 +8,7 @@ const config = {
   channelSecret: "80bc895684f08292660ce48edd98763e", // add your channel secret
 };
 
-const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzOmxZp0uD9GLLbVT7mrgBHpel_qcGzIAs-51sIF4rR8anJHhO8pIQZPSll4F1HKPMH/exec"; // add your google app script url
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzDqIRks_BZPUhTKUrrRjQU9Q9ZOMhyy4bu3dyLoz_NrRsKULKU_wABCs6wg2Kx0Exc/exec"; // add your google app script url
 
 const app = express();
 
